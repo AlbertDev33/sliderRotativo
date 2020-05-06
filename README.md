@@ -4,7 +4,7 @@ Código utilizando CSS e Javascript puro para rotacionar imagens
 
 ## Utilidade
 
-O código pode ser utilizado em seu projeto para ixibir informações rotacionando imagens.
+O código pode ser utilizado em seu projeto para exibir informações rotacionando imagens.
 
 ## References
 

@@ -10,4 +10,4 @@ O código pode ser utilizado em seu projeto para exibir informações rotacionan
 
 As imagens utilizadas nesse projeto foram retiradas do Unsplash.
 
-[unsplash] (https://unsplash.com/)
+[unsplash](https://unsplash.com/)

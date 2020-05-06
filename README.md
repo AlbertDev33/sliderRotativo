@@ -1,5 +1,7 @@
 ## Slider rotativo
 
+![](https://github.com/AlbertDev33/sliderRotativo/blob/master/slideRotativo.gif)
+
 Código utilizando CSS e Javascript puro para rotacionar imagens
 
 ## Utilidade
